@@ -41,7 +41,7 @@
             <artifactId>opennlp-tools</artifactId>
             <version>1.9.4</version>
         </dependency>
-        <dependency>
+        <dependency>8
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
