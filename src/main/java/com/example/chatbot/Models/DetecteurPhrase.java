@@ -36,7 +36,9 @@ public class DetecteurPhrase {
         System.out.println("les phrases detectée");
 
         for(int i =0;i<phrases.length;i++){
+
             System.out.println("phrase : "+phrases[i]);
+            Tokenizing.tokenizer(phrases[i]);
         }
 
 
