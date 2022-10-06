@@ -1,6 +1,12 @@
 package com.example.chatbot;
 
+import org.springframework.data.mongodb.core.mapping.Document;
+
+
+
+
 public class Chat {
+
     private String message;
     private String reponse;
 
