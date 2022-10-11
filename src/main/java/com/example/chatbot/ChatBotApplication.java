@@ -10,7 +10,7 @@ import java.io.IOException;
 public class ChatBotApplication {
 
     public static void main(String[] args) throws IOException {
-        DetecteurPhrase.entrainerDetecteurPhrase("hey, i'm oualid, i have a question, please Hey there?");
+        DetecteurPhrase.entrainerDetecteurPhrase("hey, i'm john, i have a question, please Hey there?");
         SpringApplication.run(ChatBotApplication.class, args);
 
     }

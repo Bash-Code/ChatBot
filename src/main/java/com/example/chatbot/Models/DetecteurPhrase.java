@@ -38,7 +38,8 @@ public class DetecteurPhrase {
         for(int i =0;i<phrases.length;i++){
 
             System.out.println("phrase : "+phrases[i]);
-            Tokenizing.tokenizer(phrases[i]);
+            POSTagging.posTagging(Tokenizing.tokenizer(phrases[i]));
+
         }
 
 
