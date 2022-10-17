@@ -1,4 +1,4 @@
-package com.example.chatbot.Models;
+package com.example.chatbot.services;
 
 import opennlp.tools.tokenize.SimpleTokenizer;
 
@@ -7,7 +7,7 @@ public class Tokenizing {
         SimpleTokenizer simpleTokenizer = SimpleTokenizer.INSTANCE;
         String tokens[] = simpleTokenizer.tokenize(sentence);
         for (String token:tokens ){
-            System.out.print(token +"|");
+            System.out.print(token);
         }
         return tokens;
 

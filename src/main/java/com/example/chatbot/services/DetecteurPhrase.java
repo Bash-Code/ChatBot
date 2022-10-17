@@ -1,5 +1,7 @@
-package com.example.chatbot.Models;
+package com.example.chatbot.services;
 
+import com.example.chatbot.services.POSTagging;
+import com.example.chatbot.services.Tokenizing;
 import opennlp.tools.sentdetect.SentenceDetectorME;
 import opennlp.tools.sentdetect.SentenceModel;
 import opennlp.tools.sentdetect.SentenceSampleStream;
@@ -15,9 +17,9 @@ import java.nio.charset.StandardCharsets;
 
 public class DetecteurPhrase {
 
-    public static void entrainerDetecteurPhrase(String testString) throws IOException {
+    public static String[] entrainerDetecteurPhrase(String testString) throws IOException {
         File dir = new File("model");
-        InputStreamFactory in = new MarkableFileInputStreamFactory(new File("src/main/java/com/example/chatbot/Models/Training_Data.txt"));
+        InputStreamFactory in = new MarkableFileInputStreamFactory(new File("src/main/java/com/example/chatbot/services/Training_Data.txt"));
         TrainingParameters params = new TrainingParameters();
         params.put(TrainingParameters.ITERATIONS_PARAM, Integer.toString(15));
         params.put(TrainingParameters.CUTOFF_PARAM, Integer.toString(1));
@@ -35,12 +37,7 @@ public class DetecteurPhrase {
         String[] phrases = phraseDetecteur.sentDetect(testString);
         System.out.println("les phrases detectée");
 
-        for(int i =0;i<phrases.length;i++){
-
-            System.out.println("phrase : "+phrases[i]);
-            POSTagging.posTagging(Tokenizing.tokenizer(phrases[i]));
-
-        }
+        return phrases;
 
 
     }
