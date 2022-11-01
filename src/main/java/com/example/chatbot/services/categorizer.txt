@@ -1,4 +1,129 @@
-greeting	 hi hi. hello how are you ? hey . hows it going good morning good evening good afternoon howdy
-conversation-continue	 ok wow great oh is it ? oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm
-conversation-complete	 Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it.
-agency-inquiry    When does the agency at hay riad open it's doors ? What are the working days of the agency at hay riad ? When does the agency in agdal open it's doors ? Does the agency in agdal close between 12h and 14h ?
+greeting Hi. Hello how are you ?
+greeting Hows it going ?
+greeting good morning
+greeting good evening
+greeting good afternoon
+greeting howdy
+greeting Hi. Hello how are you ?
+greeting Hows it going ?
+greeting good morning
+greeting good evening
+greeting good afternoon
+greeting howdy
+greeting Hi. Hello how are you ?
+greeting Hows it going ?
+greeting good morning
+greeting good evening
+greeting good afternoon
+greeting howdy
+greeting Hi. Hello how are you ?
+greeting Hows it going ?
+greeting good morning
+greeting good evening
+greeting good afternoon
+greeting howdy
+greeting Hi. Hello how are you ?
+greeting Hows it going ?
+greeting good morning
+greeting good evening
+greeting good afternoon
+greeting howdy
+greeting Hi. Hello how are you ?
+greeting Hows it going ?
+greeting good morning
+greeting good evening
+greeting good afternoon
+greeting howdy
+conversation-continue ok wow great oh is it ?
+conversation-continue oh ohh Thats great !
+conversation-continue Good !
+conversation-continue Really ?
+conversation-continue hmm lemme think.
+conversation-complete I am done Thank you.
+conversation-complete Thanks nothing else thats it.
+conversation-complete I am Done.
+conversation-complete I am leaving now thank you.
+conversation-complete Bye
+conversation-complete Bye bye
+conversation-continue ok wow great oh is it ?
+conversation-continue oh ohh Thats great !
+conversation-continue Good !
+conversation-continue Really ?
+conversation-continue hmm lemme think.
+conversation-complete I am done Thank you.
+conversation-complete Thanks nothing else thats it.
+conversation-complete I am Done.
+conversation-complete I am leaving now thank you.
+conversation-complete Bye
+conversation-complete Bye bye
+conversation-continue ok wow great oh is it ?
+conversation-continue oh ohh Thats great !
+conversation-continue Good !
+conversation-continue Really ?
+conversation-continue hmm lemme think.
+conversation-complete I am done Thank you.
+conversation-complete Thanks nothing else thats it.
+conversation-complete I am Done.
+conversation-complete I am leaving now thank you.
+conversation-complete Bye
+conversation-complete Bye bye
+conversation-continue ok wow great oh is it ?
+conversation-continue oh ohh Thats great !
+conversation-continue Good !
+conversation-continue Really ?
+conversation-continue hmm lemme think.
+conversation-complete I am done Thank you.
+conversation-complete Thanks nothing else thats it.
+conversation-complete I am Done.
+conversation-complete I am leaving now thank you.
+conversation-complete Bye
+conversation-complete Bye bye
+conversation-continue ok wow great oh is it ?
+conversation-continue oh ohh Thats great !
+conversation-continue Good !
+conversation-continue Really ?
+conversation-continue hmm lemme think.
+conversation-continue hmm lemme think.
+conversation-continue hmm lemme think.
+conversation-continue hmm lemme think.
+conversation-complete I am done Thank you.
+conversation-complete Thanks nothing else thats it.
+conversation-complete I am Done.
+conversation-complete I am leaving now thank you.
+conversation-complete Bye
+conversation-complete Bye bye
+agency-inquiry    When does the agency at hay riad open it's doors ?
+agency-inquiry What are the working days of the agency at hay riad ?
+agency-inquiry When does the agency in agdal open it's doors ?
+agency-inquiry Does the agency in agdal close between 12h and 14h ?
+service-inquiry   what are the services that you offer ?
+service-inquiry what services do you have ?
+account-inquiry   how can i create my account?
+agency-inquiry    When does the agency at hay riad open it's doors ?
+agency-inquiry What are the working days of the agency at hay riad ?
+agency-inquiry When does the agency in agdal open it's doors ?
+agency-inquiry Does the agency in agdal close between 12h and 14h ?
+service-inquiry   what are the services that you offer ?
+service-inquiry what services do you have ?
+account-inquiry   how can i create my account?
+agency-inquiry    When does the agency at hay riad open it's doors ?
+agency-inquiry What are the working days of the agency at hay riad ?
+agency-inquiry When does the agency in agdal open it's doors ?
+agency-inquiry Does the agency in agdal close between 12h and 14h ?
+service-inquiry   what are the services that you offer ?
+service-inquiry what services do you have ?
+account-inquiry   how can i create my account?
+agency-inquiry    When does the agency at hay riad open it's doors ?
+agency-inquiry What are the working days of the agency at hay riad ?
+agency-inquiry When does the agency in agdal open it's doors ?
+agency-inquiry Does the agency in agdal close between 12h and 14h ?
+service-inquiry   what are the services that you offer ?
+service-inquiry what services do you have ?
+account-inquiry   how can i create my account?
+agency-inquiry    When does the agency at hay riad open it's doors ?
+agency-inquiry What are the working days of the agency at hay riad ?
+agency-inquiry When does the agency in agdal open it's doors ?
+agency-inquiry Does the agency in agdal close between 12h and 14h ?
+service-inquiry   what are the services that you offer ?
+service-inquiry what services do you have ?
+account-inquiry   how can i create my account?

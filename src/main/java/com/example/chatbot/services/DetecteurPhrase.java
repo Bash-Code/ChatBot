@@ -38,7 +38,5 @@ public class DetecteurPhrase {
         System.out.println("les phrases detectée");
 
         return phrases;
-
-
     }
 }
