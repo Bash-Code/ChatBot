@@ -1,5 +1,81 @@
 salutation      salut.
-salutation      bonjours. est-ce-que cava?
+salutation      bonjour. est-ce-que cava?
+salutation      coucou.
+remerciements       merci .
+remerciements       je vous remercie.
+remerciements       mercie énormément.
+remerciements       mercie infiniement.
+conversation-non-terminée       ah oui!
+conversation-non-terminée       hmm je pense.
+conversation-non-terminée       attendez un peu!
+conversation-non-terminée       génial!
+conversation-terminée       à toute à l'heure.
+conversation-terminée       bye!
+conversation-terminée       c'était interessant bye!
+conversation-terminée       bye bye.
+conversation-terminée       ciao.
+question-agence     quand est-ce-que l'agence de hay riad ouvre ses portes?
+question-agence     quand est-ce-que l'agence de agdal ouvre ses portes?
+question-agence     quelle est l'heure d'ouverture de vos agences?
+salutation      salut.
+salutation      bonjour. est-ce-que cava?
+salutation      coucou.
+remerciements       merci .
+remerciements       je vous remercie.
+remerciements       mercie énormément.
+remerciements       mercie infiniement.
+conversation-non-terminée       ah oui!
+conversation-non-terminée       hmm je pense.
+conversation-non-terminée       attendez un peu!
+conversation-non-terminée       génial!
+conversation-terminée       à toute à l'heure.
+conversation-terminée       bye!
+conversation-terminée       c'était interessant bye!
+conversation-terminée       bye bye.
+conversation-terminée       ciao.
+question-agence     quand est-ce-que l'agence de hay riad ouvre ses portes?
+question-agence     quand est-ce-que l'agence de agdal ouvre ses portes?
+question-agence     quelle est l'heure d'ouverture de vos agences?
+salutation      salut.
+salutation      bonjour. est-ce-que cava?
+salutation      coucou.
+remerciements       merci .
+remerciements       je vous remercie.
+remerciements       mercie énormément.
+remerciements       mercie infiniement.
+conversation-non-terminée       ah oui!
+conversation-non-terminée       hmm je pense.
+conversation-non-terminée       attendez un peu!
+conversation-non-terminée       génial!
+conversation-terminée       à toute à l'heure.
+conversation-terminée       bye!
+conversation-terminée       c'était interessant bye!
+conversation-terminée       bye bye.
+conversation-terminée       ciao.
+question-agence     quand est-ce-que l'agence de hay riad ouvre ses portes?
+question-agence     quand est-ce-que l'agence de agdal ouvre ses portes?
+question-agence     quelle est l'heure d'ouverture de vos agences?
+salutation      salut.
+salutation      bonjour. est-ce-que cava?
+salutation      coucou.
+remerciements       merci .
+remerciements       je vous remercie.
+remerciements       mercie énormément.
+remerciements       mercie infiniement.
+conversation-non-terminée       ah oui!
+conversation-non-terminée       hmm je pense.
+conversation-non-terminée       attendez un peu!
+conversation-non-terminée       génial!
+conversation-terminée       à toute à l'heure.
+conversation-terminée       bye!
+conversation-terminée       c'était interessant bye!
+conversation-terminée       bye bye.
+conversation-terminée       ciao.
+question-agence     quand est-ce-que l'agence de hay riad ouvre ses portes?
+question-agence     quand est-ce-que l'agence de agdal ouvre ses portes?
+question-agence     quelle est l'heure d'ouverture de vos agences?
+salutation      salut.
+salutation      bonjour. est-ce-que cava?
 salutation      coucou.
 remerciements       merci.
 remerciements       je vous remercie.
@@ -18,7 +94,7 @@ question-agence     quand est-ce-que l'agence de hay riad ouvre ses portes?
 question-agence     quand est-ce-que l'agence de agdal ouvre ses portes?
 question-agence     quelle est l'heure d'ouverture de vos agences?
 salutation      salut.
-salutation      bonjours. est-ce-que cava?
+salutation      bonjour. est-ce-que cava?
 salutation      coucou.
 remerciements       merci.
 remerciements       je vous remercie.
@@ -37,7 +113,7 @@ question-agence     quand est-ce-que l'agence de hay riad ouvre ses portes?
 question-agence     quand est-ce-que l'agence de agdal ouvre ses portes?
 question-agence     quelle est l'heure d'ouverture de vos agences?
 salutation      salut.
-salutation      bonjours. est-ce-que cava?
+salutation      bonjour. est-ce-que cava?
 salutation      coucou.
 remerciements       merci.
 remerciements       je vous remercie.
@@ -56,90 +132,14 @@ question-agence     quand est-ce-que l'agence de hay riad ouvre ses portes?
 question-agence     quand est-ce-que l'agence de agdal ouvre ses portes?
 question-agence     quelle est l'heure d'ouverture de vos agences?
 salutation      salut.
-salutation      bonjours. est-ce-que cava?
+salutation      bonjour. est-ce-que cava?
 salutation      coucou.
-remerciements       merci.
-remerciements       je vous remercie.
-remerciements       mercie énormément.
-remerciements       mercie infiniement.
-conversation-non-terminée       ah oui!
-conversation-non-terminée       hmm je pense.
-conversation-non-terminée       attendez un peu!
-conversation-non-terminée       génial!
-conversation-terminée       à toute à l'heure.
-conversation-terminée       bye!
-conversation-terminée       c'était interessant bye!
-conversation-terminée       bye bye.
-conversation-terminée       ciao.
-question-agence     quand est-ce-que l'agence de hay riad ouvre ses portes?
-question-agence     quand est-ce-que l'agence de agdal ouvre ses portes?
-question-agence     quelle est l'heure d'ouverture de vos agences?
-salutation      salut.
-salutation      bonjours. est-ce-que cava?
-salutation      coucou.
-remerciements       merci.
-remerciements       je vous remercie.
-remerciements       mercie énormément.
-remerciements       mercie infiniement.
-conversation-non-terminée       ah oui!
-conversation-non-terminée       hmm je pense.
-conversation-non-terminée       attendez un peu!
-conversation-non-terminée       génial!
-conversation-terminée       à toute à l'heure.
-conversation-terminée       bye!
-conversation-terminée       c'était interessant bye!
-conversation-terminée       bye bye.
-conversation-terminée       ciao.
-question-agence     quand est-ce-que l'agence de hay riad ouvre ses portes?
-question-agence     quand est-ce-que l'agence de agdal ouvre ses portes?
-question-agence     quelle est l'heure d'ouverture de vos agences?
-salutation      salut.
-salutation      bonjours. est-ce-que cava?
-salutation      coucou.
-remerciements       merci.
-remerciements       je vous remercie.
-remerciements       mercie énormément.
-remerciements       mercie infiniement.
-conversation-non-terminée       ah oui!
-conversation-non-terminée       hmm je pense.
-conversation-non-terminée       attendez un peu!
-conversation-non-terminée       génial!
-conversation-terminée       à toute à l'heure.
-conversation-terminée       bye!
-conversation-terminée       c'était interessant bye!
-conversation-terminée       bye bye.
-conversation-terminée       ciao.
-question-agence     quand est-ce-que l'agence de hay riad ouvre ses portes?
-question-agence     quand est-ce-que l'agence de agdal ouvre ses portes?
-question-agence     quelle est l'heure d'ouverture de vos agences?
-salutation      salut.
-salutation      bonjours. est-ce-que cava?
-salutation      coucou.
-remerciements       merci.
-remerciements       je vous remercie.
-remerciements       mercie énormément.
-remerciements       mercie infiniement.
-conversation-non-terminée       ah oui!
-conversation-non-terminée       hmm je pense.
-conversation-non-terminée       attendez un peu!
-conversation-non-terminée       génial!
-conversation-terminée       à toute à l'heure.
-conversation-terminée       bye!
-conversation-terminée       c'était interessant bye!
-conversation-terminée       bye bye.
-conversation-terminée       ciao.
-question-agence     quand est-ce-que l'agence de hay riad ouvre ses portes?
-question-agence     quand est-ce-que l'agence de agdal ouvre ses portes?
-question-agence     quelle est l'heure d'ouverture de vos agences?
-salutation      salut.
-salutation      bonjours. est-ce-que cava?
-salutation      coucou.
-remerciement       merci!
-remerciement       merci!
-remerciement       merci!
+remerciement       merci .
+remerciement       merci .
+remerciement       merci .
 remerciement       je vous remercie.
-remerciement       mercie énormément.
-remerciement       mercie infiniement.
+remerciement       merci énormément.
+remerciement       merci infiniement.
 conversation-non-terminée       ah oui!
 conversation-non-terminée       hmm je pense.
 conversation-non-terminée       attendez un peu!
