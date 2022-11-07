@@ -16,5 +16,6 @@ public class Reponse {
         questionAnswer.put("question-service", "notre service clientèle appelez le numéro 0800097765");
         questionAnswer.put("conversation-terminée", "bye bye.");
         questionAnswer.put("remerciements", "pas de soucie!");
+        questionAnswer.put("affirmation", "d'accord");
     }
 }

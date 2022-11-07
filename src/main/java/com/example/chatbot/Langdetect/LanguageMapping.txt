@@ -38,7 +38,7 @@ hun	Hungarian
 hye	Armenian
 ind	Indonesian
 isl	Icelandic
-ita	Italian
+ita	French
 jav	Javanese
 jpn	Japanese
 kan	Kannada
@@ -46,7 +46,7 @@ kat	Georgian
 kaz	Kazakh
 kir	Kirghiz
 kor	Korean
-lat	Latin
+lat	French
 lav	Latvian
 lim	Limburgan
 lit	Lithuanian
@@ -54,7 +54,7 @@ ltz	Luxembourgish
 lvs	Standard Latvian
 mal	Malayalam
 mar	Marathi
-min	Minangkabau
+min	French
 mkd	Macedonian
 mlt	Maltese
 mon	Mongolian
@@ -69,7 +69,7 @@ nob	Norwegian Bokmål
 oci	Occitan
 pan	Panjabi
 pes	Iranian Persian
-plt	Plateau Malagasy
+plt	French
 pnb	Western Panjabi
 pol	Polish
 por	Portuguese
