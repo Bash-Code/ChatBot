@@ -26,6 +26,10 @@ public class LanguageDetector {
 
         System.out.println("Predicted language: "+ languageMapper.getLanguage(languages[0].getLang()));
 
+        // uncomment to know confidence for rest of the languages
+	       /* for(Language language:languages){
+	            System.out.println(language.getLang()+"  confidence:"+language.getConfidence());
+	        }*/
         return languageMapper.getLanguage(languages[0].getLang());
     }
 }
