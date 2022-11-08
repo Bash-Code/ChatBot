@@ -5,4 +5,4 @@ question-service_notre service clientèle appelez le numéro 0800097765
 conversation-terminée_bye bye.
 remerciements_pas de soucie!
 affirmation_d'accord
-question-compte_voir notre site internet www.emiBank.org
+question-compte_il existe deux façons la première c'est d'allez vers l'agence et demandez au service client de vous ouvrir un compte la procedure prend quelques minutes la deuxième vous pouvez le créer au niveau de notre site internet www.emiBank.org vous receverez un appel par la suite pour confirmer.

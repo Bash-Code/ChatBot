@@ -25,6 +25,9 @@ question-agence     quelle est l'heure d'ouverture de vos agences?
 question-compte     comment puis je créer mon compte ?
 question-compte     est ce que vous pouvez me dire comment je pourrais créer mon compte ?
 question-compte     comment pourrais-je créer mon compte ?
+question-service    est ce que vous pouvez me dire vos services ?
+question-service    quels sont vos services ?
+question-service    disez moi vos services ?
 salutation      salut.
 salutation      salut çava?
 salutation      bonjour. est-ce-que cava?
@@ -52,6 +55,9 @@ question-agence     quelle est l'heure d'ouverture de vos agences?
 question-compte     comment puis je créer mon compte ?
 question-compte     est ce que vous pouvez me dire comment je pourrais créer mon compte ?
 question-compte     comment pourrais-je créer mon compte ?
+question-service    est ce que vous pouvez me dire vos services ?
+question-service    quels sont vos services ?
+question-service    disez moi vos services ?
 salutation      salut.
 salutation      salut çava?
 salutation      bonjour. est-ce-que cava?
@@ -79,6 +85,9 @@ question-agence     quelle est l'heure d'ouverture de vos agences?
 question-compte     comment puis je créer mon compte ?
 question-compte     est ce que vous pouvez me dire comment je pourrais créer mon compte ?
 question-compte     comment pourrais-je créer mon compte ?
+question-service    est ce que vous pouvez me dire vos services ?
+question-service    quels sont vos services ?
+question-service    disez moi vos services ?
 affirmation     Oui
 affirmation     justement
 affirmation     effectivement
@@ -110,6 +119,9 @@ question-agence     quelle est l'heure d'ouverture de vos agences?
 question-compte     comment puis je créer mon compte ?
 question-compte     est ce que vous pouvez me dire comment je pourrais créer mon compte ?
 question-compte     comment pourrais-je créer mon compte ?
+question-service    est ce que vous pouvez me dire vos services ?
+question-service    quels sont vos services ?
+question-service    disez moi vos services ?
 affirmation     oui
 affirmation     justement
 affirmation     effectivement
@@ -141,6 +153,9 @@ question-agence     quelle est l'heure d'ouverture de vos agences?
 question-compte     comment puis je créer mon compte ?
 question-compte     est ce que vous pouvez me dire comment je pourrais créer mon compte ?
 question-compte     comment pourrais-je créer mon compte ?
+question-service    est ce que vous pouvez me dire vos services ?
+question-service    quels sont vos services ?
+question-service    disez moi vos services ?
 salutation      salut.
 salutation      salut çava?
 salutation      bonjour. est-ce-que cava?
@@ -172,6 +187,9 @@ question-agence     quelle est l'heure d'ouverture de vos agences?
 question-compte     comment puis je créer mon compte ?
 question-compte     est ce que vous pouvez me dire comment je pourrais créer mon compte ?
 question-compte     comment pourrais-je créer mon compte ?
+question-service    est ce que vous pouvez me dire vos services ?
+question-service    quels sont vos services ?
+question-service    disez moi vos services ?
 salutation      salut.
 salutation      salut çava?
 salutation      bonjour. est-ce-que cava?
@@ -196,6 +214,9 @@ conversation-terminée       ciao.
 question-agence     quand est-ce-que l'agence de hay riad ouvre ses portes?
 question-agence     quand est-ce-que l'agence de agdal ouvre ses portes?
 question-agence     quelle est l'heure d'ouverture de vos agences?
+question-service    est ce que vous pouvez me dire vos services ?
+question-service    quels sont vos services ?
+question-service    disez moi vos services ?
 salutation      Salut
 salutation      salut çava?
 salutation      bonjour. est-ce-que cava?
@@ -223,6 +244,9 @@ question-agence     quelle est l'heure d'ouverture de vos agences?
 question-compte     comment puis je créer mon compte ?
 question-compte     est ce que vous pouvez me dire comment je pourrais créer mon compte ?
 question-compte     comment pourrais-je créer mon compte ?
+question-service    est ce que vous pouvez me dire vos services ?
+question-service    quels sont vos services ?
+question-service    disez moi vos services ?
 affirmation     oui
 affirmation     justement
 affirmation     effectivement
