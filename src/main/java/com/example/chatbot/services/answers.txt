@@ -2,5 +2,5 @@ greeting_Hello, how can I help you?
 conversation-continue_What else can I help you with?
 agency-inquiry_the agency opens it's doors at 10am
 service-inquiry_we offer costumer services at the number 0800208099
-account-inquiry_visit our website in www.emiBank.org
+account-inquiry_there are two ways the first is to go to the agency and ask customer service to open an account for you the procedure takes a few minutes the second you can create it on our website www.emiBank.org you will receive a call afterwards to confirm.
 conversation-complete_Nice chatting with you. Bye.
