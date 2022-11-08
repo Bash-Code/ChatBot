@@ -1,0 +1,6 @@
+greeting_Hello, how can I help you?
+conversation-continue_What else can I help you with?
+agency-inquiry_the agency opens it's doors at 10am
+service-inquiry_we offer costumer services at the number 0800208099
+account-inquiry_visit our website in www.emiBank.org
+conversation-complete_Nice chatting with you. Bye.

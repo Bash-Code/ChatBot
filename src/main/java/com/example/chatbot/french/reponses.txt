@@ -1,0 +1,8 @@
+salutation_Bonjours comment est-ce que je pourrais vous aider?
+conversation-non-terminée_d'autre choses?
+question-agence_l'agence ouvre à 10h
+question-service_notre service clientèle appelez le numéro 0800097765
+conversation-terminée_bye bye.
+remerciements_pas de soucie!
+affirmation_d'accord
+question-compte_voir notre site internet www.emiBank.org

@@ -1,21 +1,33 @@
 package com.example.chatbot.french;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
 public class Reponse {
     public static Map<String, String> questionAnswer = new HashMap<>();
 
-    /*
-     * Define answers for each given category.
-     */
+    public static HashMap<String, String> putInHashmap() throws IOException {
+        HashMap<String, String> map = new HashMap<String, String>();
+        BufferedReader in = new BufferedReader(new FileReader("src/main/java/com/example/chatbot/french/reponses.txt"));
+        String line = "";
+
+        while ((line = in.readLine()) != null) {
+            String parts[] = line.split("_");
+            map.put(parts[0], parts[1]);
+        }
+        in.close();
+
+        return map;
+
+    }
     static {
-        questionAnswer.put("salutation", "Bonjours comment est-ce que je pourrais vous aider?");
-        questionAnswer.put("conversation-non-terminée", "d'autre choses?");
-        questionAnswer.put("question-agence", "l'agence ouvre à 10h");
-        questionAnswer.put("question-service", "notre service clientèle appelez le numéro 0800097765");
-        questionAnswer.put("conversation-terminée", "bye bye.");
-        questionAnswer.put("remerciements", "pas de soucie!");
-        questionAnswer.put("affirmation", "d'accord");
+        try {
+            questionAnswer = putInHashmap();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }
